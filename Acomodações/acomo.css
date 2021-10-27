@@ -1,0 +1,78 @@
+/*-----Estilo da navbar ------*/
+
+.espaco{ /* Espaço da home para os outros li*/
+    margin-right: 50px;
+}
+
+.espacoLi{
+    margin-right: 10px;
+}
+
+/* -----Estilo da header -----*/
+
+.cartao{
+    width: 400px;
+    box-shadow: 0 4px 8px 0;
+    margin-right: 10px;
+    margin: auto;
+    background-color: white;
+    margin-top: 50px;
+}
+
+.texto{
+	font-size: 20px;
+	font-family: arial;
+}
+
+/* -----Estilo da section -----*/
+
+.section{
+    background-color: #104c97;
+    height: 370px;
+    margin-top: 30px;
+    padding: 70px 100px;
+    width: 1500px;
+    
+}
+
+.tit{
+    font-size: 18pt;
+    font-family: fantasy;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: blue;
+}
+
+.titsec{
+    font-size: 25pt;
+    color: white;
+    font-family: fantasy;
+}
+
+.paragrafo{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16pt;
+    max-width: 1000px;
+    margin-left: 30px;
+    color: white;
+}
+
+.lista{
+    padding-bottom: 5px;
+    font-size: 13pt;
+    padding-left: 10px;
+    margin-top: 10px;
+}
+
+.margen{
+    margin-top: 70px;
+}
+
+/* -------footer-------*/
+
+.footer{
+    margin-left: 500px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
