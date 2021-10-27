@@ -1,0 +1,61 @@
+/*-----Estilo da navbar ------*/
+
+.espaco{ /* Espaço da home para os outros li*/
+    margin-right: 50px;
+}
+
+.espacoLi{
+    margin-right: 10px;
+}
+
+/* -----Estilo da header -----*/
+
+.img{
+    margin-left: 230px;
+    margin-top: 80px;
+    width: 850px;
+    height: 460px;
+}
+
+/* -----Estilo da section -----*/
+
+.section{
+    background-color: #104c97;
+    height: 580px;
+    margin-top: 30px;
+    padding: 70px 80px;
+    width: 1500px;
+}
+
+.tit{
+    font-size: 25pt;
+    color: white;
+    font-family: fantasy;
+}
+
+.paragrafo{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16pt;
+    max-width: 1000px;
+    margin-left: 30px;
+    color: white;
+}
+
+.lista{
+    color: white;
+    padding-bottom: 10px;
+    font-size: 16pt;
+    padding-left: 10px;
+}
+
+.margen{
+    margin-top: 70px;
+}
+
+/* -------footer-------*/
+
+.footer{
+    margin-left: 500px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
