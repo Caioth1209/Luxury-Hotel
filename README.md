@@ -1,2 +1,2 @@
 # Luxury-Hotel
-This is a non-responsive hotel website. It was my first project.
+Site não responsivo de um hotel. Foi o meu primeiro projeto.
